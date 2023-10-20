@@ -1,17 +1,212 @@
 [
 {
-  "directory": "/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61",
-  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61\"  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++11 -o CMakeFiles/unittests.dir/unittests.cpp.o -c \"/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61/unittests.cpp\"",
-  "file": "/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61/unittests.cpp"
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_message_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_message.dir/test_message_autogen/mocs_compilation.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_message_autogen/mocs_compilation.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_message_autogen/mocs_compilation.cpp"
 },
 {
-  "directory": "/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61",
-  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61\"  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++11 -o CMakeFiles/unittests.dir/test_cqsort.cpp.o -c \"/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61/test_cqsort.cpp\"",
-  "file": "/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61/test_cqsort.cpp"
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_message_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_message.dir/test_message.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_message.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_message.cpp"
 },
 {
-  "directory": "/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61",
-  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61\"  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++11 -o CMakeFiles/cqbench.dir/cqbench.cpp.o -c \"/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61/cqbench.cpp\"",
-  "file": "/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61/cqbench.cpp"
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_message_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_message.dir/message_widget.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/message_widget.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/message_widget.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/test_gui_autogen/mocs_compilation.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/mocs_compilation.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/test_gui.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/qgraphics_arc_item.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/qgraphics_arc_item.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/qgraphics_arc_item.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/message_widget.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/message_widget.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/message_widget.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/canvas_widget.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/canvas_widget.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/canvas_widget.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/repl_widget.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/repl_widget.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/repl_widget.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/qt_interpreter.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/qt_interpreter.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/qt_interpreter.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/main_window.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/main_window.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/main_window.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/tokenize.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/tokenize.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/tokenize.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/expression.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/environment.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/environment.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/environment.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\\\"/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_gui_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtTest    -g -O0 -fprofile-arcs -ftest-coverage -fPIC -std=gnu++11 -o CMakeFiles/test_gui.dir/interpreter.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/interpreter.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/interpreter.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/include    -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++11 -o CMakeFiles/unittests.dir/unittests_autogen/mocs_compilation.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/mocs_compilation.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/include    -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++11 -o CMakeFiles/unittests.dir/tokenize.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/tokenize.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/tokenize.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/include    -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++11 -o CMakeFiles/unittests.dir/expression.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/include    -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++11 -o CMakeFiles/unittests.dir/environment.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/environment.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/environment.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/include    -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++11 -o CMakeFiles/unittests.dir/interpreter.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/interpreter.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/interpreter.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/include    -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++11 -o CMakeFiles/unittests.dir/unittests.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/include    -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++11 -o CMakeFiles/unittests.dir/test_interpreter.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_interpreter.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_interpreter.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/include    -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++11 -o CMakeFiles/unittests.dir/test_tokenize.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_tokenize.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_tokenize.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/include    -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++11 -o CMakeFiles/unittests.dir/test_types.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_types.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_types.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/sldraw_autogen/mocs_compilation.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/mocs_compilation.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/tokenize.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/tokenize.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/tokenize.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/expression.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/environment.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/environment.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/environment.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/interpreter.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/interpreter.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/interpreter.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/qgraphics_arc_item.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/qgraphics_arc_item.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/qgraphics_arc_item.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/message_widget.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/message_widget.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/message_widget.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/canvas_widget.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/canvas_widget.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/canvas_widget.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/repl_widget.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/repl_widget.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/repl_widget.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/qt_interpreter.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/qt_interpreter.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/qt_interpreter.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/main_window.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/main_window.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/main_window.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++    -fPIC -std=gnu++11 -o CMakeFiles/sldraw.dir/sldraw.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/sldraw.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/slisp_autogen/include    -std=gnu++11 -o CMakeFiles/slisp.dir/slisp_autogen/mocs_compilation.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/slisp_autogen/mocs_compilation.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/slisp_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/slisp_autogen/include    -std=gnu++11 -o CMakeFiles/slisp.dir/tokenize.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/tokenize.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/tokenize.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/slisp_autogen/include    -std=gnu++11 -o CMakeFiles/slisp.dir/expression.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/slisp_autogen/include    -std=gnu++11 -o CMakeFiles/slisp.dir/environment.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/environment.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/environment.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/slisp_autogen/include    -std=gnu++11 -o CMakeFiles/slisp.dir/interpreter.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/interpreter.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/interpreter.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61",
+  "command": "/usr/bin/c++   -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61 -I/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/slisp_autogen/include    -std=gnu++11 -o CMakeFiles/slisp.dir/slisp.cpp.o -c /home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/slisp.cpp",
+  "file": "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/slisp.cpp"
 }
 ]

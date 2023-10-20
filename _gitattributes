@@ -1,1 +1,4 @@
+*.slp binary
+*.slp.expected binary
+
 *.sh eol=lf

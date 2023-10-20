@@ -1,15 +1,25 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
   )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/environment.cpp" "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/CMakeFiles/unittests.dir/environment.cpp.o"
+  "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.cpp" "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/CMakeFiles/unittests.dir/expression.cpp.o"
+  "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/interpreter.cpp" "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/CMakeFiles/unittests.dir/interpreter.cpp.o"
+  "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_interpreter.cpp" "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/CMakeFiles/unittests.dir/test_interpreter.cpp.o"
+  "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_tokenize.cpp" "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/CMakeFiles/unittests.dir/test_tokenize.cpp.o"
+  "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/test_types.cpp" "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/CMakeFiles/unittests.dir/test_types.cpp.o"
+  "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/tokenize.cpp" "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/CMakeFiles/unittests.dir/tokenize.cpp.o"
+  "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests.cpp" "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/CMakeFiles/unittests.dir/unittests.cpp.o"
+  "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/unittests_autogen/mocs_compilation.cpp" "/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/CMakeFiles/unittests.dir/unittests_autogen/mocs_compilation.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61/test_cqsort.cpp" "CMakeFiles/unittests.dir/test_cqsort.cpp.o" "gcc" "CMakeFiles/unittests.dir/test_cqsort.cpp.o.d"
-  "/Users/yichenliu/Library/CloudStorage/OneDrive-VirginiaTech/ECE3574 NEW/ece3574-sp22-proj4-yichenl61/unittests.cpp" "CMakeFiles/unittests.dir/unittests.cpp.o" "gcc" "CMakeFiles/unittests.dir/unittests.cpp.o.d"
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "."
+  "unittests_autogen/include"
   )
 
 # Targets to which this target links.

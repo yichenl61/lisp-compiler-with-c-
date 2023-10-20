@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.cpp
+expression.hpp
+/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.hpp
+sstream
+-
+cmath
+-
+limits
+-
+cctype
+-
+tuple
+-
+
+/home/parallels/Desktop/ECE3574/proj3_new/ece3574-sp22-proj3-yichenl61/expression.hpp
+string
+-
+vector
+-
+tuple
+-
+cmath
+-
+limits
+-
+
